@@ -7,3 +7,5 @@ Want to do GAN project for creatin mnist diGits
 Want to do eart attack detection usin LSTM ECG (slidin window -> 1D CNN -> LSTM for classification)
 
 Maybe sometin wit brats (https://www.synapse.org/Synapse:syn64153130/wiki/630130)
+
+Coursera computer vision cource
